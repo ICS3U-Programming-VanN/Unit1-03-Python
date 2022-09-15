@@ -3,10 +3,12 @@
 # Date: September 14th, 2022
 # Calls a function that prints out two lines
 
+
 # Function that outputs two lines of text to the console.
 def main():
     print("Hello World! I am writing in proper style! :D")
     print("I am testing my main() function.")
+
 
 if __name__ == "__main__":
     main()
