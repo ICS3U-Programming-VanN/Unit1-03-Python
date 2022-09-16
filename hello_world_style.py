@@ -6,7 +6,7 @@
 
 # Function that outputs two lines of text to the console.
 def main():
-    print("Hello World! I am writing in proper style! :D")
+    print("Hello World! I am writing in the proper style! :D")
     print("I am testing my main() function.")
 
 # This shows that this Python Script should be ran
