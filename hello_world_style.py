@@ -9,6 +9,6 @@ def main():
     print("Hello World! I am writing in proper style! :D")
     print("I am testing my main() function.")
 
-
+# This shows that this Python Script should be ran
 if __name__ == "__main__":
     main()
